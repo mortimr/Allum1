@@ -4,6 +4,8 @@ Fun project, we had to create a 100% winrate AI for a simple match game.
 
 (Bonus; for privacy reasons, pictures from ./bonus -d have been blurried)
 
+Screenshots available !
+
 ## Usage
 
 ./allum1 -h :
@@ -19,6 +21,8 @@ Made by rotaru_i
 ```
 
 ## Bonus
+
+You'll need LibLapin 1.7 (from Jason Brillante) in order for it to work.
 
 In bonus folder :
 
