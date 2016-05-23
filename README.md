@@ -1,5 +1,7 @@
 # Allum1
 
+![alt tag](./allum1.png)
+
 Fun project, we had to create a 100% winrate AI for a simple match game.
 
 (Bonus; for privacy reasons, pictures from ./bonus -d have been blurried)
